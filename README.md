@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Albertzmh
 - 👀 I’m interested in analyzing spatial data to explore more insights.
-- 🌱 I’m currently learning python,and Google Earth Engine.
+- 🌱 I’m currently learning python.
 
 
 <!---
